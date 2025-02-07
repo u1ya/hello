@@ -1,0 +1,16 @@
+.ss{
+    text-align: center;
+    /* border: solid 1px black; */
+}
+header{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.card{
+    margin: auto;
+}
+.container{
+    text-align: center;
+}
